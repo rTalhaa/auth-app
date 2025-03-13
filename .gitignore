@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+build/
+dist/
+
+# Docker
+.env
+docker-compose.override.yml
+
+# Database
+*.db
+*.sqlite
+*-data/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
